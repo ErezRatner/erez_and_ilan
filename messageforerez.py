@@ -1,0 +1,1 @@
+print("erez ya maniak")
